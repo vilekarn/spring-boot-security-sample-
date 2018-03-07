@@ -1,0 +1,14 @@
+com\ulisesbocchio\security\saml\spring\mvc\IdPSelectionController.class
+com\ulisesbocchio\security\saml\spring\mvc\HomeController.class
+com\ulisesbocchio\security\saml\spring\security\SAMLUserDetails.class
+com\ulisesbocchio\security\saml\certificate\KeystoreFactory.class
+com\ulisesbocchio\security\saml\config\SAMLConfigDefaults.class
+com\ulisesbocchio\security\saml\config\MvcConfig.class
+com\ulisesbocchio\security\saml\config\FilterCleanupConfig.class
+com\ulisesbocchio\security\saml\spring\SpringResourceWrapperOpenSAMLResource.class
+com\ulisesbocchio\security\saml\spring\security\SAMLUserDetailsServiceImpl.class
+com\ulisesbocchio\security\saml\config\FilterCleanupConfig$1.class
+com\ulisesbocchio\security\saml\config\SAMLConfig.class
+com\ulisesbocchio\security\saml\spring\mvc\SAMLUser.class
+com\ulisesbocchio\security\saml\config\WebSecurityConfig.class
+com\ulisesbocchio\security\saml\SamlServiceProviderApplication.class
